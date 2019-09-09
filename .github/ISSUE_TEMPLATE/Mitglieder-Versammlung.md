@@ -1,3 +1,9 @@
+----
+name: Mitgliederversammlung
+about: Ein Template um Mitliederversammlungen strukturiert anzulegen
+----
+
+
 # Mitgliederversammlung Freie Maker e.V.
 
 |Eckdaten | &nbsp;|
