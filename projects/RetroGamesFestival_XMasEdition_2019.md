@@ -8,10 +8,11 @@ Folgende Aufgaben gibt es zu erledigen (ohne Gewähr), dies sollte über GH Issu
 * Eventbrite Event erstellen und Vorverkauf starten
 * Marketing starten, Leute pushen das Event zu bewerben. Wer wird alles angeschrieben?
 * Verfügbare Konsolen sammeln. Wer hat was and *funktionierenden* Konsolen? Was für Spiele?
-* Planen welche Konsolen wo aufgestellt werden, inkl. was für Bildwiedergabegeräte verwendet werden, Beamer, CRT, TFT etc. Werden zusätzliche Sitzmöglichkeit benötigt? 
-* Für die musikalische Untermalung ist geplant Demos abzuspielen, wer plant die Demos? Youtube? Live? Wie kommt das an die Lautsprecher? Wo werden die Demos angezeigt? Beamer? Fernsehr im Space?
+* Planen welche Konsolen wo aufgestellt werden, inkl. was für Bildwiedergabegeräte verwendet werden, Beamer, CRT, TFT etc.
+* Für die musikalische Untermalung verwenden wir unsere Space Lautsprecher. Es werden noch zwei Lautsprecher benötigt. Musik kommt von Spotify (Chiptunes bevorzugt).
 * Getränke planen, Bierzapfanlage etc.
 * Essen, was ist mit dem Grill? Wer besorgt Material?
 * Beleuchtung im Space, was an Lampen? Verwenden wir DMX um es richtig fancy zu machen? Was ist mit der OLED Wall, können wir die mit einbauen?
+* Zusätzliche Sitzmöglichkeit, hat noch jemand alte Couches? Sessel?
 
 ## URL zum Vorverkauf
