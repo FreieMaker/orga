@@ -2,7 +2,7 @@
 
 __Termin: xx.xx.xxxx__
 
-Aus der Tragödie, dass es letztes Jahr keine Weihnachtsfeier gegeben hat haben wir gelernt und wollen daher dieses Jahr wieder richtig auffahren. Da nur saufen ein wenig einfallslos ist haben wir uns überlegt dieses mal zu saufen und dabei noch alles an Spiel-Konsolen der letzten Jahrzehnte aufzufahren. Das ganze natürlich in gemütlichen Weihnachtlichen Flair in unserem Space in Lemiers.
+Aus der Tragödie, dass es letztes Jahr keine Weihnachtsfeier gegeben hat haben wir gelernt und wollen aus diesem Grund dieses Jahr wieder richtig auffahren. Da nur saufen ein wenig einfallslos ist haben wir uns überlegt dieses mal zu saufen und dabei noch alles an Spiel-Konsolen der letzten Jahrzehnte aufzufahren. Das ganze natürlich in gemütlichen weihnachtlichen Flair in unserem Space in Lemiers.
 Folgende Aufgaben gibt es zu erledigen (ohne Gewähr), dies sollte über GH Issues verfolgt werden.
 * Flyer und anderes Marketing Material erstellen
 * Eventbrite Event erstellen und Vorverkauf starten
