@@ -7,7 +7,7 @@ Folgende Aufgaben gibt es zu erledigen (ohne Gewähr), dies sollte über GH Issu
 * Flyer und anderes Marketing Material erstellen
 * Eventbrite Event erstellen und Vorverkauf starten
 * Marketing starten, Leute pushen das Event zu bewerben. Wer wird alles angeschrieben?
-* Verfügbare Konsolen Sammeln
+* Verfügbare Konsolen sammeln. Wer hat was and *funktionierenden* Konsolen? Was für Spiele?
 * Planen welche Konsolen wo aufgestellt werden, inkl. was für Bildwiedergabegeräte verwendet werden, Beamer, CRT, TFT etc. Werden zusätzliche Sitzmöglichkeit benötigt? 
 * Für die musikalische Untermalung ist geplant Demos abzuspielen, wer plant die Demos? Youtube? Live? Wie kommt das an die Lautsprecher? Wo werden die Demos angezeigt? Beamer? Fernsehr im Space?
 * Getränke planen, Bierzapfanlage etc.
