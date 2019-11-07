@@ -7,11 +7,18 @@
 |Ort   |Creator Space, Lemiers|
 
 # Demnächst anliegende Sachen
-
-- Weihnachtsfeier 5.12. ab 17 Uhr 
-- Makertag Wuppertal 21.3. 14-21 Uhr (Ausstellung des üblichen Zeugs, Highstriker, UV-Painting, Badgemaker...)
-- Workshops (3D-Design, Arduino Workshop) Ab Januar, jeden  2ten Donnnerstag
-
+* Weihnachtsfeier 5.12. ab 17 Uhr 
+* Makertag Wuppertal 21.3. 14-21 Uhr
+* Workshops Jeden 2. Donnerstag im Monat während des OpenLabdays ab Januar
 
 # Weihnachtsfeier
-- Chris designed mal nen Flyer
+* Chris designed nen Flyer
+
+# Makertag
+* alles Blinkzeug ausstellen
+* UV-Painting, Badgemaker
+* Fassadenprojekt (Highstriker)
+
+# Workshops
+* Fabscan (Benutzung), Arduino, ESP32, OpenScad (3D-Druck), Inkscape (Lasercutting), Platinendesign... Alle Basissachen die man so braucht
+* OpenBadges...
