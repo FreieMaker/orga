@@ -8,7 +8,6 @@ Folgende Aufgaben gibt es zu erledigen (ohne Gewähr), dies sollte über GH Issu
 * Eventbrite Event erstellen und Vorverkauf starten
 * Marketing starten, Leute pushen das Event zu bewerben. Wer wird alles angeschrieben?
 * Verfügbare Konsolen sammeln. Wer hat was and *funktionierenden* Konsolen? Was für Spiele?
-** Unterpunkt
 * Planen welche Konsolen wo aufgestellt werden, inkl. was für Bildwiedergabegeräte verwendet werden, Beamer, CRT, TFT etc.
 * Für die musikalische Untermalung verwenden wir unsere Space Lautsprecher. Es werden noch zwei Lautsprecher benötigt. Musik kommt von Spotify (Chiptunes bevorzugt).
 * Getränke planen, Bierzapfanlage etc.
@@ -23,3 +22,11 @@ Folgende Aufgaben gibt es zu erledigen (ohne Gewähr), dies sollte über GH Issu
 300€ für Würstchen
 Was kostet das Bier?
 Andere Getränke?
+
+## Konsolen & Computer
+* Amiga läuft (Flipper?)
+* PET (SD-Kartending kaufen)
+* Mac LC (2*, Netzwerkspiele)
+
+## Sonstiges Makerzeugs (Licht und Farben ^^)
+* alles was wir so auf Lager haben
