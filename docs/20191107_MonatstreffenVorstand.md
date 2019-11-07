@@ -20,5 +20,5 @@
 * Fassadenprojekt (Highstriker)
 
 # Workshops
-* Fabscan (Benutzung), Arduino, ESP32, OpenScad (3D-Druck), Inkscape (Lasercutting), Platinendesign... Alle Basissachen die man so braucht
-* OpenBadges...
+* Fabscan (Benutzung), Arduino, ESP32, OpenScad (3D-Druck), Inkscape (Lasercutting), Platinendesign, Giessen... Alle Basissachen die man so braucht
+* OpenBadges dazu
