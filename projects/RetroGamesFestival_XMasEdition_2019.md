@@ -24,9 +24,12 @@ Was kostet das Bier?
 Andere Getränke?
 
 ## Konsolen & Computer
-* Amiga läuft (Flipper?)
-* PET (SD-Kartending kaufen)
-* Mac LC (2*, Netzwerkspiele)
+* Amiga läuft (Flipper, Lemminge)
+* PET (Läuft, Tanks(MP), Space Invaders(?))
+* Mac SE, (2*)Mac LC (Beamwars (Tron,MP), Glimmer(3D), Hellcats)
+* Atari 1040 ST (Spiele ??)
+* Commodore SX-64
+
 
 ## Sonstiges Makerzeugs (Licht und Farben ^^)
 * alles was wir so auf Lager haben
